@@ -29,7 +29,7 @@
 
 [website]: https://spsonline.in/
 [instagram]: https://www.instagram.com/?hl=en
-[linkedin]: https://www.linkedin.com/hp/
+[linkedin]: https://www.linkedin.com/in/justin-james-9096751b4/
 [visualStudio]: https://visualstudio.microsoft.com/
 [HTML]: https://en.wikipedia.org/wiki/HTML5/
 [CSS]: https://en.wikipedia.org/wiki/
