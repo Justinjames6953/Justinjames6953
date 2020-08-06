@@ -2,7 +2,7 @@
 
 ## I'm a Self Learned Developer!
 - 🔭 I’m currently working with [SPS][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play drums
